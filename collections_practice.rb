@@ -56,6 +56,7 @@ end
 def(array) 
   
   array.each_with_index.collect |element, index|
-    if array
+    if index != 1 
+      
   
 end 
