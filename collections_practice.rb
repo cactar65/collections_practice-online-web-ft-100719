@@ -60,5 +60,7 @@ def(array)
       "#{element}s"
     else
       "#{element}"
+    end
+  end
   
 end 
